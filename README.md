@@ -1,6 +1,7 @@
 ### Peace be upon you. ✨ _Welcome to my GitHub!_
 
 Hey, This is <b>Sayed Mahmud Raihan</b>, and welcome to my Github profile. I've profound knowledge in <i>Full-Stack Development</i>. Fascinated by technologies such as machine learning, data science, blockchain, multi-thread programming in Java, Software development and also dev-ops too. Furthermore, I am taking my time to brush up my knowledge on the underlying fundamentals of data science, including manual implementation of the algorithms to figure out how things work in the data science paradigm.
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sayedmahmudraihan/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/meraihan)
