@@ -8,7 +8,7 @@ Hey, This is <b>Sayed Mahmud Raihan</b>, and welcome to my Github profile. I've 
 &nbsp;
 [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/mee_raihan)
 &nbsp;
-<a href="https://stackoverflow.com/users/5921109/md-tarikul-islam"><img src="https://img.shields.io/stackexchange/stackoverflow/r/5921109?label=stackoverflow&style=plastic" alt="Stackoverflow"></a> &nbsp;
+<a href="https://stackoverflow.com/story/sayedmahmudraihan"><img src="https://img.shields.io/stackexchange/stackoverflow/r/5921109?label=stackoverflow&style=plastic" alt="Stackoverflow"></a> &nbsp;
 
 Here are some ideas to get you started:
 <ul>
