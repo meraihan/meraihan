@@ -13,7 +13,7 @@ Hey, This is <b>Sayed Mahmud Raihan</b>, and welcome to my Github profile. I've 
 Here are some ideas to get you started:
 <ul>
 <li>
-     <b>🔭 Currently working on:</b>  <b><i>Spring Boot, JavaLite</i></b> (Java).
+     <b>🔭 Currently working on:</b>  <b><i>Spring Boot, Spring Data JPA</i></b> (Java).
    </li>
   <li>
      <b>🌱 Getting better at:  </b> Backend of the application.
